@@ -144,6 +144,7 @@
     "keywords": [
       "matter"
     ],
+    "onlyWWW": true,
     "eraseOnUpload": true,
     "stopTimeout": 30000,
     "stopBeforeUpdate": true,
